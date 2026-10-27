@@ -1,0 +1,6 @@
+{
+  "name": "Creek View Academy",
+  "description": "Official portal for Creek View Academy Karachi featuring Admissions, Daily School Diary (3-Day auto-purge), Teacher Portal, Campuses, Academics, and School Blog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
