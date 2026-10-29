@@ -1,0 +1,227 @@
+{
+  "teachers": [
+    {
+      "id": "t-1",
+      "name": "Sir Hassam",
+      "designation": "Admin & Senior Faculty",
+      "campus": "Darusslam Campus",
+      "phone": "03126172674",
+      "subjects": [
+        "Mathematics",
+        "Physics",
+        "Computer Science"
+      ],
+      "assignedGrades": [
+        "Class 9",
+        "Class 10",
+        "Class 8"
+      ],
+      "registeredAt": "2026-10-11T02:40:39.325Z",
+      "role": "admin",
+      "active": true,
+      "failedAttempts": 0,
+      "passwordHash": "scrypt$16384$8$1$NVuJta/ETvgktlohmuaiPA==$GWduN1YHzqLTfiSBC71YZXgYNAfJWQODE3E2EeigAur0YfbSp3+eMp8gtxRZbKkVgE5FCB7QCJJvKhPJgNqdKw==",
+      "mustChangePassword": true
+    },
+    {
+      "id": "t-2",
+      "name": "Miss Ayesha Khan",
+      "designation": "Primary & Middle Wing Incharge",
+      "campus": "Lucknow Campus",
+      "phone": "03001234567",
+      "subjects": [
+        "English",
+        "Urdu",
+        "Social Studies"
+      ],
+      "assignedGrades": [
+        "Class 5",
+        "Class 6",
+        "Class 7"
+      ],
+      "registeredAt": "2026-10-11T02:40:39.325Z",
+      "role": "teacher",
+      "active": true,
+      "failedAttempts": 0,
+      "passwordHash": "scrypt$16384$8$1$BvdPA64SWlAJsDmWEOnncg==$rtHdUZ6eBtzIS6roDyXqUYF082L8o+LV/o0pn5t+X4CzU0Fyd+KX8+ILXY4eOMz3EaHtHwTn4Rg3NmrsjCRRHQ==",
+      "mustChangePassword": false,
+      "passwordChangedAt": "2026-10-18T17:11:01.991Z"
+    },
+    {
+      "id": "t-3",
+      "name": "Sir Tariq Mahmood",
+      "designation": "Science Faculty Head",
+      "campus": "Zaman Town Campus",
+      "phone": "03339876543",
+      "subjects": [
+        "Science",
+        "General Knowledge",
+        "Islamiat"
+      ],
+      "assignedGrades": [
+        "Class 1 - 5",
+        "Pre-Primary",
+        "Class 3"
+      ],
+      "registeredAt": "2026-10-11T02:40:39.325Z",
+      "role": "teacher",
+      "active": true,
+      "failedAttempts": 0,
+      "passwordHash": "scrypt$16384$8$1$7ZOhgScDHRKqsmlbvMPy/w==$L6u8lBYf8di4QmtReG66sQO/pPsOsG7FgSCisUIjeSIBGOvImcYw8Cd3mZ6NjogapaSrODt2sUBtkVnzriLBng==",
+      "mustChangePassword": true
+    },
+    {
+      "id": "t-1791702585087",
+      "name": "mazhar",
+      "phone": "03172800150",
+      "designation": "accounts head",
+      "campus": "Lucknow Campus",
+      "subjects": [
+        "Mathematics",
+        "Science"
+      ],
+      "assignedGrades": [
+        "All Classes"
+      ],
+      "registeredAt": "2026-10-11T07:09:45.087Z",
+      "role": "teacher",
+      "active": true,
+      "failedAttempts": 0,
+      "passwordHash": "scrypt$16384$8$1$QbBAH09uFW40S2XopabDxg==$m+bgrmSHMi0nVD+juIjPDpe+JijIYrmqqHj2KinY8T4SI7grXD20oayp9UUxQUgdMqtxb+iK9yZxSTXbOOJGvw==",
+      "mustChangePassword": true
+    }
+  ],
+  "diaries": [
+    {
+      "date": "2026-10-18",
+      "grade": "Class 9",
+      "section": "A",
+      "subject": "Mathematics",
+      "campus": "Lucknow Campus",
+      "teacherId": "t-2",
+      "teacherName": "Miss Ayesha Khan",
+      "teacherDesignation": "Primary & Middle Wing Incharge",
+      "teacherPhone": "03001234567",
+      "title": "5",
+      "homeworkText": "dsf sd fsd fsf sd fsdf",
+      "imageUrl": "",
+      "id": "diary-1792343777686-8cuwz",
+      "createdAt": "2026-10-18T17:16:17.686Z"
+    },
+    {
+      "id": "diary-today-1",
+      "date": "2026-10-18",
+      "grade": "Class 9",
+      "section": "A",
+      "subject": "Mathematics",
+      "campus": "Darusslam Campus",
+      "teacherName": "Sir Hassam",
+      "teacherDesignation": "Admin & Senior Faculty",
+      "teacherPhone": "03126172674",
+      "title": "Chapter 4: Algebraic Expressions Exercise 4.2",
+      "homeworkText": "Complete Q.No 5 to 8 from Exercise 4.2 in neat homework register. Formulas for (a+b)³ and (a-b)³ will be tested tomorrow on the board.",
+      "imageUrl": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?q=80&w=800",
+      "createdAt": "2026-10-18T12:18:41.748Z"
+    },
+    {
+      "id": "diary-today-2",
+      "date": "2026-10-18",
+      "grade": "Class 5",
+      "section": "Rose",
+      "subject": "English",
+      "campus": "Lucknow Campus",
+      "teacherName": "Miss Ayesha Khan",
+      "teacherDesignation": "Primary & Middle Wing Incharge",
+      "teacherPhone": "03001234567",
+      "title": "Unit 7: The Brave Little Kite - Reading & Vocabulary",
+      "homeworkText": "Learn meanings of 5 new words from page 48. Write 5 sentences using each new word. Dictation test tomorrow morning.",
+      "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?q=80&w=800",
+      "createdAt": "2026-10-18T11:18:41.748Z"
+    },
+    {
+      "id": "diary-yesterday-1",
+      "date": "2026-10-17",
+      "grade": "Class 10",
+      "section": "B",
+      "subject": "Physics",
+      "campus": "Darusslam Campus",
+      "teacherName": "Sir Hassam",
+      "teacherDesignation": "Admin & Senior Faculty",
+      "teacherPhone": "03126172674",
+      "title": "Unit 12: Geometrical Optics Numerical Problems",
+      "homeworkText": "Solve numerical problems 12.1 and 12.4 using mirror formula 1/f = 1/p + 1/q. Bring scientific calculator.",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=800",
+      "createdAt": "2026-10-17T12:18:41.748Z"
+    },
+    {
+      "id": "diary-yesterday-2",
+      "date": "2026-10-17",
+      "grade": "Pre-Primary",
+      "section": "Nursery",
+      "subject": "General Knowledge & Rhymes",
+      "campus": "Zaman Town Campus",
+      "teacherName": "Sir Tariq Mahmood",
+      "teacherDesignation": "Science Faculty Head",
+      "teacherPhone": "03339876543",
+      "title": "Shapes Identification & Coloring Activity",
+      "homeworkText": "Identify Circle and Square from workbook page 12. Color the balloons in red color. Bring craft paper tomorrow.",
+      "imageUrl": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=800",
+      "createdAt": "2026-10-17T11:18:41.748Z"
+    },
+    {
+      "id": "diary-day2-1",
+      "date": "2026-10-16",
+      "grade": "Class 8",
+      "section": "A",
+      "subject": "Urdu",
+      "campus": "Lucknow Campus",
+      "teacherName": "Miss Ayesha Khan",
+      "teacherDesignation": "Primary & Middle Wing Incharge",
+      "teacherPhone": "03001234567",
+      "title": "Sabaq: Hamd - Tashreeh & Khulasa",
+      "homeworkText": "Hamd k aakhri 3 ashaar ki tashreeh khush-khat copy mein tehreer karein aur alfaaz maani yaad karein.",
+      "imageUrl": "https://images.unsplash.com/photo-1588075592446-265fd1e6e76f?q=80&w=800",
+      "createdAt": "2026-10-16T12:18:41.748Z"
+    },
+    {
+      "id": "diary-day2-2",
+      "date": "2026-10-16",
+      "grade": "Class 6",
+      "section": "Tulip",
+      "subject": "Science",
+      "campus": "Zaman Town Campus",
+      "teacherName": "Sir Tariq Mahmood",
+      "teacherDesignation": "Science Faculty Head",
+      "teacherPhone": "03339876543",
+      "title": "Living Organisms: Plant and Animal Cells",
+      "homeworkText": "Draw neat labeled diagram of a Plant Cell on science register page 34.",
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?q=80&w=800",
+      "createdAt": "2026-10-16T10:18:41.748Z"
+    }
+  ],
+  "lastPurgedAt": "2026-10-18T12:18:41.745Z",
+  "students": [
+    {
+      "id": "s-1001",
+      "rollNumber": "1001",
+      "name": "Ali Ahmed",
+      "grade": "Class 9",
+      "section": "A",
+      "campus": "Darusslam Campus",
+      "guardianName": "Ahmed Khan",
+      "passwordHash": "scrypt$16384$8$1$Tbbg9zeGraRgmqCuDCIp+Q==$XP2W5hKzXK6kvx18N2GsJMFE5/SLh7Vq+j+zBkXY7Q22a6FZYCJMmyF99zXyysbyMkVnHvUZGW1WMHbVzXdnOA==",
+      "registeredAt": "2026-10-18T12:18:41.641Z"
+    },
+    {
+      "id": "s-1002",
+      "rollNumber": "1002",
+      "name": "Ayesha Ali",
+      "grade": "Class 6",
+      "section": "Tulip",
+      "campus": "Zaman Town Campus",
+      "guardianName": "Ali Raza",
+      "passwordHash": "scrypt$16384$8$1$8ShwBOvCIy9iqi74aNhdvg==$XsseX2YNLECiblnopOwogBQ02eGsvhNo3u5vYjHhx6mWVFBspDcTd+W+QmgQH/bLqHQv9ENx9/QCLG5LswFGNg==",
+      "registeredAt": "2026-10-18T12:18:41.716Z"
+    }
+  ]
+}
